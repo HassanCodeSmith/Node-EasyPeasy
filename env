@@ -1,0 +1,13 @@
+JWT_SECRET = 90£$ZiLzAaL%$£7aR&Ko
+
+JWT_LIFETIME = 15d
+
+cloud_name = dmdxfudtx
+api_key = 224861683133624
+api_secret=8C1xD188d4AduOBoQP1y0QJf9LI
+
+SENDGRID_API_KEY=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
+FROM_EMAIL=bounces+33426674@em9475.ezpzphonics.com
+
+EasyPeasyDB=mongodb://localhost:27017/EasyPeasyDB
+EasyPeasyIdentityDB=mongodb://localhost:27017/EasyPeasyIdentityDB
